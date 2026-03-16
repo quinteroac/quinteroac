@@ -1,8 +1,8 @@
 ![Victor Quintero](./assets/header.svg)
 
-<p>
-  <img src="./assets/icons/icon-agent.svg" height="56" title="Agentic AI">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/icon-work.svg" height="56" title="Selected Work">&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <img src="./assets/icons/icon-agent.svg" height="56" title="Agentic AI">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/icon-work.svg" height="56" title="Selected Work">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/icons/icon-now.svg" height="56" title="Now">
 </p>
 
