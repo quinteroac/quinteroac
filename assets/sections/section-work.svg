@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 48" width="860" height="48">
+  <rect width="860" height="48" fill="#080808"/>
+  <text x="2" y="34"
+    font-family="Impact, 'Arial Black', 'Franklin Gothic Heavy', sans-serif"
+    font-size="22"
+    fill="#E8FF00"
+    letter-spacing="2">SELECTED WORK</text>
+  <text x="858" y="34"
+    font-family="'Courier New', Courier, monospace"
+    font-size="10"
+    fill="#555555"
+    text-anchor="end"
+    letter-spacing="3">OPEN SOURCE · PROJECTS</text>
+  <line x1="0" y1="47" x2="860" y2="47" stroke="#1E1E1E" stroke-width="1"/>
+</svg>

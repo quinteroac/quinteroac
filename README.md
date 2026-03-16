@@ -8,9 +8,9 @@
 
 I build tools at the intersection of code and generative AI — agentic applications, ComfyUI-powered media pipelines, and developer frameworks. If a workflow can be automated with AI, I'll wrap it in an agent or a skill.
 
----
+<br>
 
-## AGENTIC AI
+![AGENTIC AI](./assets/sections/section-agentic.svg)
 
 Systems where LLMs don't just generate text — they take actions, call tools, and complete multi-step tasks autonomously.
 
@@ -20,9 +20,9 @@ Systems where LLMs don't just generate text — they take actions, call tools, a
 
 `Mastra` · `Vercel AI SDK` · `Assistant UI` · `GitHub Copilot SDK` · `MCP` · `ElysiaJS / Bun`
 
----
+<br>
 
-## SELECTED WORK
+![SELECTED WORK](./assets/sections/section-work.svg)
 
 | | |
 |:---|:---|
@@ -37,29 +37,29 @@ Systems where LLMs don't just generate text — they take actions, call tools, a
 | **[comfyui-base-image](https://github.com/quinteroac/comfyui-base-image)** | Docker container for running ComfyUI on RunPod |
 | **[datasets-toolbox](https://github.com/quinteroac/datasets-toolbox)** | Utility toolkit for managing AI training datasets |
 
----
+<br>
 
-## STACK
+![STACK](./assets/sections/section-stack.svg)
 
 `Python` · `TypeScript` · `Bun` · `ElysiaJS` · `React` · `ComfyUI` · `Docker` · `OpenAI API` · `Anthropic API` · `Mastra` · `Vercel AI SDK` · `Assistant UI` · `GitHub Copilot SDK` · `MCP` · `LoRA / DiffSynth` · `RunPod`
 
----
+<br>
 
-## NOW
+![NOW](./assets/sections/section-now.svg)
 
 - Building Aurora — agentic RPG with Mastra, Assistant UI & comfy-diffusion media pipeline
 - MCP servers and agent skill distribution
 - Audio-video generation pipelines — WAN 2.1, LTXV, ACE Step
 - Reproducible ComfyUI environments on RunPod
 
----
+<br>
 
-## STATS
+![STATS](./assets/sections/section-stats.svg)
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quinteroac&show_icons=true&hide_border=true&count_private=true&bg_color=080808&title_color=E8FF00&icon_color=E8FF00&text_color=EDEDED&ring_color=E8FF00)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quinteroac&layout=compact&hide_border=true&langs_count=8&bg_color=080808&title_color=E8FF00&text_color=EDEDED)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quinteroac&hide_border=true&background=080808&ring=E8FF00&fire=E8FF00&currStreakLabel=E8FF00&sideLabels=E8FF00&dates=555555&currStreakNum=EDEDED&sideNums=EDEDED)
 
----
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-quinteroac-E8FF00?style=for-the-badge&logo=github&logoColor=111111&labelColor=111111&color=E8FF00)](https://github.com/quinteroac)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-quinteroac%40gmail.com-E8FF00?style=for-the-badge&logo=gmail&logoColor=111111&labelColor=111111&color=E8FF00)](mailto:quinteroac@gmail.com)
