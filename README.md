@@ -1,5 +1,11 @@
 ![Victor Quintero](./assets/header.svg)
 
+<p>
+  <img src="./assets/icons/icon-agent.png" height="56" title="Agentic AI">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/icon-work.png" height="56" title="Selected Work">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/icon-now.png" height="56" title="Now">
+</p>
+
 I build tools at the intersection of code and generative AI — agentic applications, ComfyUI-powered media pipelines, and developer frameworks. If a workflow can be automated with AI, I'll wrap it in an agent or a skill.
 
 ---
