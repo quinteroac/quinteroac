@@ -26,6 +26,7 @@ Systems where LLMs don't just generate text — they take actions, call tools, a
 
 | | |
 |:---|:---|
+| **[reelpod-studio](https://github.com/quinteroac/reelpod-studio)** | Creator tool for AI-generated lo-fi music & visuals — audio-reactive R3F visualizers, ACEStep + diffusers backend |
 | **[zikon](https://github.com/quinteroac/zikon)** | CLI for generating icons & SVG assets from text prompts via diffusion models — installable as an agent skill |
 | **[aurora](https://github.com/quinteroac/aurora)** | Agentic RPG — Mastra agent narrates, builds world & generates media in real time |
 | **[comfy-diffusion](https://github.com/quinteroac/comfy-diffusion)** | Python library exposing ComfyUI's inference engine as importable modules — no server needed |
