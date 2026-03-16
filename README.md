@@ -26,6 +26,7 @@ Systems where LLMs don't just generate text — they take actions, call tools, a
 
 | | |
 |:---|:---|
+| **[zikon](https://github.com/quinteroac/zikon)** | CLI for generating icons & SVG assets from text prompts via diffusion models — installable as an agent skill |
 | **[aurora](https://github.com/quinteroac/aurora)** | Agentic RPG — Mastra agent narrates, builds world & generates media in real time |
 | **[comfy-diffusion](https://github.com/quinteroac/comfy-diffusion)** | Python library exposing ComfyUI's inference engine as importable modules — no server needed |
 | **[nerds-vibecoding-survivor-toolkit](https://github.com/quinteroac/nerds-vibecoding-survivor-toolkit)** | Spec-driven agentic development framework & CLI built on Bun |
