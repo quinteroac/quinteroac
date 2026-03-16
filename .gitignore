@@ -1,0 +1,13 @@
+.agent/
+.agents/
+.claude/
+AGENTS.md
+skills-lock.json
+docs/nvst-flow/COMMANDS.md
+docs/nvst-flow/QUICK_USE.md
+docs/nvst-flow/templates/CHANGELOG.md
+docs/nvst-flow/templates/it_000001_evaluation-report.md
+docs/nvst-flow/templates/it_000001_product-requirement-document.md
+docs/nvst-flow/templates/it_000001_refactor_plan.md
+docs/nvst-flow/templates/it_000001_test-plan.md
+docs/nvst-flow/templates/TECHNICAL_DEBT.md
