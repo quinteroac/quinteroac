@@ -3,7 +3,7 @@
   <rect width="900" height="280" fill="#080808"/>
 
   <!-- Top accent stripe -->
-  <rect x="0" y="0" width="900" height="5" fill="#E8FF00"/>
+  <rect x="0" y="0" width="900" height="5" fill="#00BFFF"/>
 
   <!-- Name: first line -->
   <text
@@ -18,7 +18,7 @@
     x="48" y="225"
     font-family="Impact, 'Arial Black', 'Franklin Gothic Heavy', sans-serif"
     font-size="96"
-    fill="#E8FF00"
+    fill="#00BFFF"
     letter-spacing="-2">QUINTERO</text>
 
   <!-- Right-side monospace metadata -->

@@ -1,9 +1,9 @@
 ![Victor Quintero](./assets/header.svg)
 
 <p>
-  <img src="./assets/icons/icon-agent.png" height="56" title="Agentic AI">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/icon-work.png" height="56" title="Selected Work">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/icons/icon-now.png" height="56" title="Now">
+  <img src="./assets/icons/icon-agent.svg" height="56" title="Agentic AI">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/icon-work.svg" height="56" title="Selected Work">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/icons/icon-now.svg" height="56" title="Now">
 </p>
 
 I build tools at the intersection of code and generative AI — agentic applications, ComfyUI-powered media pipelines, and developer frameworks. If a workflow can be automated with AI, I'll wrap it in an agent or a skill.
@@ -56,10 +56,10 @@ Systems where LLMs don't just generate text — they take actions, call tools, a
 
 ![STATS](./assets/sections/section-stats.svg)
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quinteroac&show_icons=true&hide_border=true&count_private=true&bg_color=080808&title_color=E8FF00&icon_color=E8FF00&text_color=EDEDED&ring_color=E8FF00)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quinteroac&layout=compact&hide_border=true&langs_count=8&bg_color=080808&title_color=E8FF00&text_color=EDEDED)
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quinteroac&show_icons=true&hide_border=true&count_private=true&bg_color=080808&title_color=00BFFF&icon_color=00BFFF&text_color=EDEDED&ring_color=00BFFF)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quinteroac&layout=compact&hide_border=true&langs_count=8&bg_color=080808&title_color=00BFFF&text_color=EDEDED)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quinteroac&hide_border=true&background=080808&ring=E8FF00&fire=E8FF00&currStreakLabel=E8FF00&sideLabels=E8FF00&dates=555555&currStreakNum=EDEDED&sideNums=EDEDED)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quinteroac&hide_border=true&background=080808&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=555555&currStreakNum=EDEDED&sideNums=EDEDED)
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-quinteroac-E8FF00?style=for-the-badge&logo=github&logoColor=111111&labelColor=111111&color=E8FF00)](https://github.com/quinteroac)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-quinteroac%40gmail.com-E8FF00?style=for-the-badge&logo=gmail&logoColor=111111&labelColor=111111&color=E8FF00)](mailto:quinteroac@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-quinteroac-00BFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111&color=00BFFF)](https://github.com/quinteroac)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-quinteroac%40gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=111111&color=00BFFF)](mailto:quinteroac@gmail.com)
