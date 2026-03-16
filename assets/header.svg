@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280">
   <!-- Background -->
-  <rect width="900" height="280" fill="#080808"/>
+  <rect width="900" height="280" fill="#0D1117"/>
 
   <!-- Top accent stripe -->
   <rect x="0" y="0" width="900" height="5" fill="#00BFFF"/>
