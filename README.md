@@ -47,15 +47,6 @@ Systems where LLMs don't just generate text — they take actions, call tools, a
 
 <br>
 
-![NOW](./assets/sections/section-now.svg)
-
-- Building Aurora — agentic RPG with Mastra, Assistant UI & comfy-diffusion media pipeline
-- MCP servers and agent skill distribution
-- Audio-video generation pipelines — WAN 2.1, LTXV, ACE Step
-- Reproducible ComfyUI environments on RunPod
-
-<br>
-
 ![STATS](./assets/sections/section-stats.svg)
 
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quinteroac&show_icons=true&hide_border=true&count_private=true&bg_color=080808&title_color=00BFFF&icon_color=00BFFF&text_color=EDEDED&ring_color=00BFFF)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quinteroac&layout=compact&hide_border=true&langs_count=8&bg_color=080808&title_color=00BFFF&text_color=EDEDED)
